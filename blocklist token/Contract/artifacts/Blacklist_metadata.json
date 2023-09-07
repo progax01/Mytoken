@@ -90,7 +90,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Contract/Blacklist.sol": "Blacklist"
+			"blocklist token/Contract/Blacklist.sol": "Blacklist"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -120,12 +120,12 @@
 				"dweb:/ipfs/QmRK2Y5Yc6BK7tGKkgsgn3aJEQGi5aakeSPZvS65PV8Xp3"
 			]
 		},
-		"Contract/Blacklist.sol": {
-			"keccak256": "0x6e6c8b04c465e59e8b64238883eefd1a5bd7b524504f087d9a4bd285b81fb8bb",
+		"blocklist token/Contract/Blacklist.sol": {
+			"keccak256": "0xf6dc66c2957f64161f00462ad8a141dfd3d01eb90d8a47eb107175ee4a55703d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://84f8105e3ec4b09751fd40ec54eddf80be694f08173b4954837f675237335325",
-				"dweb:/ipfs/Qmb2RSJsEfnr9ZhGXCCRjEu2AGFAYKGJTuM5NPE8YoyNGF"
+				"bzz-raw://5df7bceea78e6ea3d1ab334221959af023679f4e1cd2a6fd7c72956cac0416a9",
+				"dweb:/ipfs/QmVXiGasUEJXheU79EqaVzhqKu2271qbXLutdLMCkdZJzS"
 			]
 		}
 	},

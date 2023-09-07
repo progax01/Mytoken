@@ -536,7 +536,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Contract/MyToken.sol": "MyToken"
+			"blocklist token/Contract/MyToken.sol": "MyToken"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -598,7 +598,7 @@
 				"dweb:/ipfs/QmRK2Y5Yc6BK7tGKkgsgn3aJEQGi5aakeSPZvS65PV8Xp3"
 			]
 		},
-		"Contract/Blacklist.sol": {
+		"blocklist token/Contract/Blacklist.sol": {
 			"keccak256": "0x6e6c8b04c465e59e8b64238883eefd1a5bd7b524504f087d9a4bd285b81fb8bb",
 			"license": "MIT",
 			"urls": [
@@ -606,7 +606,7 @@
 				"dweb:/ipfs/Qmb2RSJsEfnr9ZhGXCCRjEu2AGFAYKGJTuM5NPE8YoyNGF"
 			]
 		},
-		"Contract/MyToken.sol": {
+		"blocklist token/Contract/MyToken.sol": {
 			"keccak256": "0xf07d3cb2e22fb4a20af65be185ae476b6d2856d7b6570b8741360503a3599f9f",
 			"license": "MIT",
 			"urls": [
